@@ -1,5 +1,5 @@
 <?php
-
+//estudo de DAO
   class Sql extends PDO{
       private $conn;
 
